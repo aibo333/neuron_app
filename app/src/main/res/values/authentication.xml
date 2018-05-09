@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="authenticating_url">http://local.mynet.com.tw:3000/v1/authenticate</string>
+    <string name="username">Default Username</string>
+    <string name="node_identity">6896bd65c1-28036-39768292</string>>
+</resources>
